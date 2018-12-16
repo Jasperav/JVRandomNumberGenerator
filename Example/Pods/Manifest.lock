@@ -1,0 +1,16 @@
+PODS:
+  - JVRandomNumberGenerator (0.1.0)
+
+DEPENDENCIES:
+  - JVRandomNumberGenerator (from `../`)
+
+EXTERNAL SOURCES:
+  JVRandomNumberGenerator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVRandomNumberGenerator: 8f3fcc9fe47c3b938d6eaf707a281bf31c2c19b5
+
+PODFILE CHECKSUM: 6aa7e4c28f066a081a578139017f538882d5c5fd
+
+COCOAPODS: 1.6.0.beta.1

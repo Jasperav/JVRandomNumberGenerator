@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVRandomNumberGenerator_Tests' do
+  pod 'JVRandomNumberGenerator', :path => '../'
+  
+  
+end
